@@ -1,25 +1,25 @@
 
-# Android_App_STBLESensors
+# Project
 
 Udemy course containers study
 
-# Requirements
+## Requirements
 
 - Docker installation (wsl2 for windows)
 - Any project that can be containered
 
-# Example project
+## Example project
 
 - I'll be using flutter as a containerizable project
 - This project will be focused on mobile development
 
-# Specs
+## Specs
 
 - Windows 11
 - vscode IDE
 - docker desktop
 
-## Flutter
+### Flutter
 
 This project is a starting point for a Flutter application.
 
